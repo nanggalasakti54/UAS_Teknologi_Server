@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "uas-teknologi-server-01": {
+      "hosting": {
+        "my-app": [
+          "uas-teknologi-server-01"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "uas-teknologi-server-01"
+  }
+}
